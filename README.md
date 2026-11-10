@@ -1,3 +1,4 @@
+<img width="1338" height="635" alt="Screenshot 2026-11-10 120301" src="https://github.com/user-attachments/assets/af039522-3b83-443d-a92a-03e030bf3e2a" />
 # Dashboard Responsi (React-Bootstrap)
 
 Proyek Dashboard berbasis **React.js** dan **React-Bootstrap** yang dirancang untuk memenuhi kebutuhan antarmuka responsif, modern, dan interaktif.
